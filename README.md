@@ -2,7 +2,7 @@
 BETA , IT MAY HAS SOME BUGS 
 Components Required
 
-Microcontroller: ESP32 Development Board (e.g., ESP32-WROOM-32)
+Microcontroller: ESP32 C3
 
 Display: 0.96" OLED SSD1306 (I2C Interface, 4 Pins: VCC, GND, SDA, SCL)
 
