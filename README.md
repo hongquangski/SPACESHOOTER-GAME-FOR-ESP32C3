@@ -7,3 +7,5 @@ Microcontroller: ESP32 Development Board (e.g., ESP32-WROOM-32)
 Display: 0.96" OLED SSD1306 (I2C Interface, 4 Pins: VCC, GND, SDA, SCL)
 
 Buttons: 3x Tactile Push Buttons (Tact Switch)
+<img width="881" height="598" alt="image" src="https://github.com/user-attachments/assets/5bcbbd35-12cc-4166-960a-4106a19f5938" />
+
